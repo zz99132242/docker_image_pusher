@@ -1,6 +1,7 @@
-nginx
-redis
-postgres
-
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 mysql:8.0.38
+--platform=linux/arm64 redis:6.2
+--platform=linux/arm64/v8 openjdk:17-oracle
+nginx:latest
+redis:latest
+postgresql:latest
+--platform=linux/arm64 findepi/graalvm:java21
