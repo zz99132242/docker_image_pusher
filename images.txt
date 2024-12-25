@@ -3,5 +3,5 @@
 --platform=linux/arm64/v8 openjdk:17-oracle
 nginx:latest
 redis:latest
-postgresql:latest
+postgres:latest
 --platform=linux/arm64 findepi/graalvm:java21
