@@ -4,4 +4,4 @@
 nginx:latest
 redis:latest
 postgres:latest
---platform=linux/arm64 findepi/graalvm:java21
+findepi/graalvm:java21
