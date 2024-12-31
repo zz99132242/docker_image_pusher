@@ -5,3 +5,5 @@ nginx:latest
 redis:latest
 postgres:latest
 findepi/graalvm:java21
+emqx/emqx-enterprise:5.8.4
+emqx/emqx:5.8.4
