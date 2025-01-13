@@ -7,3 +7,4 @@ postgres:latest
 findepi/graalvm:java21
 emqx/emqx-enterprise:5.8.4
 emqx/emqx:5.8.4
+bellsoft/liberica-openjdk-debian:21.0.3-cds
