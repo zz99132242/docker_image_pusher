@@ -1,1 +1,2 @@
-opensnail/snail-job:1.3.0
+apache/doris.fe-ubuntu:3.0.1
+apache/doris.be-ubuntu:3.0.1
