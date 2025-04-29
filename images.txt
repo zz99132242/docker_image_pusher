@@ -1,1 +1,1 @@
-qwenllm/qwen-omni:2.5-cu121
+vllm-openai:latest
