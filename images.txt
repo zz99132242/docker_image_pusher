@@ -1,1 +1,1 @@
-bellsoft/liberica-openjdk-debian:8u452-11-cds
+pytorch/torchserve:0.11.0-gpu
