@@ -1,1 +1,1 @@
-ghcr.io/fishaudio/fish-speech:dev
+python:3.12-slim-bookworm
