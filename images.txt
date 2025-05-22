@@ -1,1 +1,1 @@
-fishaudio/fish-speech:latest-dev
+ghcr.io/fishaudio/fish-speech:dev
