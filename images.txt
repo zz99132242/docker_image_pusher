@@ -1,1 +1,1 @@
-paddlecloud/paddlespeech:develop-gpu-cuda11.2-cudnn8-latest
+opensnail/snail-job:1.5.0
