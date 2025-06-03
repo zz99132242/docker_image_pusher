@@ -1,1 +1,1 @@
-opensnail/snail-job:1.5.0
+pytorch/pytorch:2.6.0-cuda12.4-cudnn9-runtime
