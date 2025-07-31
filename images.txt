@@ -1,1 +1,1 @@
-linshen/prompt-optimizer:latest
+rustfs/rustfs:latest
