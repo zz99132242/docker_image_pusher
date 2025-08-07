@@ -1,1 +1,1 @@
-xprobe/xinference:latest-cu128
+ollama
