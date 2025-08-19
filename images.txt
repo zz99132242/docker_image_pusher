@@ -1,1 +1,1 @@
-qingpan/rnacos:stable
+seataio/seata-server:latest
