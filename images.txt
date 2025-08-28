@@ -1,2 +1,1 @@
-seataio/seata-server:latest
-bladex/sentinel-dashboard:latest
+rustfs/rustfs:latest
