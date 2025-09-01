@@ -1,1 +1,1 @@
-paradedb/paradedb:latest
+docker pull ymlisoft/kkfileview:latest
