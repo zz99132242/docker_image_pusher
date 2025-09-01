@@ -1,1 +1,1 @@
-rustfs/rustfs:latest
+paradedb/paradedb:latest
